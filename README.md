@@ -21,7 +21,7 @@
 > node-sass -o assets/css assets/scss/index.scss -w
 ```
 
-More info **[HERE](https://sass-lang.com/)**
+More info **[CSS with superpowers](https://sass-lang.com/)**
 
 ### SASS IMPLEMENTATION AND FOLDER STRUCTURE
 
