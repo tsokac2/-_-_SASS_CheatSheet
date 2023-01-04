@@ -1,6 +1,6 @@
   
-
-### HTML
+## 
+### HTML H1 - ::after{} effect
   ```<h1 className="card-heading" as="h3" size="1xl">Title of your component</h1>```
 ### SASS
 ```
@@ -9,7 +9,6 @@
     overflow: hidden;
     background-color: plum;
 }
-
 .card-heading::after {
     margin-left: 25px;
     content: '';
@@ -21,4 +20,5 @@
 }
 ```
 ### Browser output
-![card-heading](https://github.com/tsokac2/-_-_SASS_CheatSheet/blob/main/wireframes/Responsive_h1_after_element.JPG)s
+![card-heading](https://github.com/tsokac2/-_-_SASS_CheatSheet/blob/main/wireframes/Responsive_h1_after_element.JPG)
+#
